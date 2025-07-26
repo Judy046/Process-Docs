@@ -4,7 +4,7 @@
 
   - [ ] 安装Xmind并大致了解基本使用
 
-- [ ] ## 2025-7-25
+- [x] ## 2025-7-25
 
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114835161484388&bvid=BV1rFuGz5EqT&cid=30983196190&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="700"   height="600"></iframe>
