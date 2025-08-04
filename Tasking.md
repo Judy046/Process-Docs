@@ -1,20 +1,20 @@
-- [ ] ## 会议待办（8.3）
+- [x] ## 会议待办（8.3）
 
 - [x] 周任务汇报，及次周任务安排
 
-- [ ] 讨论2025-7-25日的一席演讲话题
+- [ ] ~~讨论2025-7-25日的一席演讲话题~~
 
 - [x] 朱年哥分享中考经验
 
-- [ ] 安装破解版xmind
+- [x] 安装破解版xmind
 
   
 
-- [ ] ## 2025-7-28
+- [x] ## 2025-7-28
 
   **本周添加任务：**
 
-- [ ] 完成第二周汇报及本周详细计划整理（README)
+- [x] 完成第二周汇报及本周详细计划整理（README)
 
 - [x] 完成八月学习规划，并上传文档
 
@@ -32,12 +32,9 @@
 
   - [x] 安装Xmind并大致了解基本使用
 
-- [ ] ## 2025-7-25
+- [x] ## 2025-7-25
 
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114835161484388&bvid=BV1rFuGz5EqT&cid=30983196190&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="700"   height="600"></iframe>
-
-- [ ] **好好看完这个演讲（[b站链接]( https://www.bilibili.com/video/BV1rFuGz5EqT/?share_source=copy_web&vd_source=8a6100bdb0a5150174710aa5fda549b1)），周日会上探讨这个话题**
+- [ ] ~~**好好看完这个演讲（[b站链接]( https://www.bilibili.com/video/BV1rFuGz5EqT/?share_source=copy_web&vd_source=8a6100bdb0a5150174710aa5fda549b1)），周日会上探讨这个话题**~~
 
 **重点关注两个平台：YiXi 一席（听君一席话，胜读十年书；中国最大认知演讲平台）、TED（英文，全球最大的认知演讲平台）**
 
